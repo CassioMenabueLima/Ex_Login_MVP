@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Login MVP</string>
+
+
+    <string name="act01_main_label_tv_title">Login</string>
+    <string name="act01_main_label_tv_name">Name</string>
+    <string name="act01_main_label_tv_password">Password</string>
+    <string name="act01_main_label_btn_login">Login</string>
+    <string name="act01_main_label_btn_cancel">Cancel</string>
+    <string name="act01_main_msg_error_name_required">Error: Name is Required</string>
+    <string name="act01_main_msg_error_password_required">Error: Password is Required</string>
+    <string name="act01_main_msg_error_credential_invalid">Error: Invalid Credentials!!</string>
+    <string name="act01_main_label_alert_title">Credentials</string>
+    <string name="act01_main_label_alert_btn_ok">Ok</string>
+</resources>

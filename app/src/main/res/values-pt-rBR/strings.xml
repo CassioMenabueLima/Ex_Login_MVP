@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Login MVP</string>
+
+
+    <string name="act01_main_label_tv_title">Credenciais de Acesso</string>
+    <string name="act01_main_label_tv_name">Nome</string>
+    <string name="act01_main_label_tv_password">Senha</string>
+    <string name="act01_main_label_btn_login">Entrar</string>
+    <string name="act01_main_label_btn_cancel">Cancelar</string>
+    <string name="act01_main_msg_error_name_required">Erro: Nome é Obrigatório</string>
+    <string name="act01_main_msg_error_password_required">Erro: Senha é Obrigatoria</string>
+    <string name="act01_main_msg_error_credential_invalid">Erro: Credenciais Invalidas</string>
+</resources>
